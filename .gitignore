@@ -1,0 +1,23 @@
+# Java kompilyatsiya fayllari
+*.class
+
+# Log fayllari
+*.log
+
+# IDE sozlamalari
+.idea/
+*.iml
+
+# Operatsion tizim fayllari
+.DS_Store
+
+# Vaqtinchalik fayllar
+*.tmp
+*.bak
+
+# Loyiha ishlashi uchun kerak bo‘lmagan papkalar
+target/
+out/
+
+# Maxfiy ma’lumotlar
+.env
