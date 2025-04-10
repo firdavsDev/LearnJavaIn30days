@@ -1,4 +1,4 @@
-# LearnJavawithGPT in 30 Days Challenge
+# LearnJava in 30 Days Challenge
 
 Assalomu alaykum! Bu loyiha mening Java dasturlash tilini o‘rganish bo‘yicha 30 kunlik challengim uchun yaratilgan. Men 2020-yildan beri Python dasturchiman va endi Java’ni noldan o‘rganib, Core Java va Advanced Java mavzularini chuqur o‘zlashtirmoqchiman. Ushbu loyihada har bir kun uchun alohida sub-papka ochiladi, unda nazariy materiallar, kod misollari va vazifalar saqlanadi.
 
